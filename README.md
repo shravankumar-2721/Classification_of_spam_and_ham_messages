@@ -1,1 +1,2 @@
-# Classification_of_spam_and_ham_messages
+# email-spam-classifier-new
+End to end code for the email spam classifier project
